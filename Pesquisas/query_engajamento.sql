@@ -1,0 +1,1 @@
+SELECT name, (median_playtime - average_playtime) as diferenca FROM steam ORDER BY diferenca desc LIMIT 10;
