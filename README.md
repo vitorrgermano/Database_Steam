@@ -1,6 +1,7 @@
 <h2>Steam Database</h2>
 
-![Logo](https://i.ibb.co/H7qYfbx/Design-sem-nome.gif)
+<p align="center">
+    <img windth="470" src="Assets/imgreadme.gif">
 
 
 ## Sobre o projeto
